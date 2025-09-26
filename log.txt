@@ -1,0 +1,8 @@
+Comando: ls -l 
+Real: 0.002088s, User: 0s, Sys: 0.001911s
+MaxRSS: 2944 KB
+
+Comando: ls -l 
+Real: 0.001915s, User: 0s, Sys: 0.001679s
+MaxRSS: 2952 KB
+
