@@ -1,0 +1,12 @@
+Comando: gcc -O2 prog.c -o prog 
+Real: 0.240437s, User: 0.002974s, Sys: 0.00402s
+MaxRSS: 7160 KB
+
+Comando: gcc -O2 prog.c -o prog 
+Real: 0.004678s, User: 0.003581s, Sys: 0.000939s
+MaxRSS: 7200 KB
+
+Comando: g++ -O2 minishell.cpp -o minishell 
+Real: 0.695544s, User: 0.600992s, Sys: 0.079945s
+MaxRSS: 81284 KB
+
